@@ -1,4 +1,9 @@
-﻿using System.Collections;
+
+/*
+    实现了游戏的基本逻辑功能：当某个槽内卡牌数量达到五张，计算对应得分并播放动画
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
